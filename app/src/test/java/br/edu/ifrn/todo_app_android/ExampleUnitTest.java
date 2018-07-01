@@ -1,4 +1,4 @@
-package br.edu.ifrn.todo_http_url;
+package br.edu.ifrn.todo_app_android;
 
 import org.junit.Test;
 

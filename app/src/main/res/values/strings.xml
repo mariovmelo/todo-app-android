@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">todo-http-url</string>
+    <string name="app_name">Lista de tarefas</string>
+    <string name="title_activity_main2">MainActivity2</string>
 </resources>
